@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724317506136",
+    "firebase_url": "https://chatapp-copy.firebaseio.com",
+    "project_id": "chatapp-copy",
+    "storage_bucket": "chatapp-copy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724317506136:android:302d7ebf098032db13d82d",
+        "android_client_info": {
+          "package_name": "com.sohbet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724317506136-vt9emp51mq6jcvdu5v6km1g3909q5avo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDagr0ZgGe0BT4hLM5F4IFyLmcTM7b29vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724317506136-vt9emp51mq6jcvdu5v6km1g3909q5avo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
