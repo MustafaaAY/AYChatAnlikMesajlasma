@@ -1,2 +1,2 @@
-# AYChat Anlik Mesajlasma
+# AYChat Anlık Mesajlasma Android Uygulaması
 
